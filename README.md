@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="./mscbot/images/bot.png">
+    <img width="200" src="./mscbot/images/bot.png">
 </p>
 
 <h1 align="center">LocalStorage</h1>
