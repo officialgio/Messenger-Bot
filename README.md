@@ -8,7 +8,7 @@
 A program that allows you to chat with a bot (me) </br></br>
 </div>
 
-### 📲 Project idea: Messenger APp
+### 📲 Project idea: Messenger App
 
 ## 🌟 Features/Concepts Learned
 
