@@ -2,23 +2,24 @@
     <img width="300" src="./mscbot/images/bot.png">
 </p>
 
-<h1 align="center">LocalStorage</h1>
+<h1 align="center">Messenger Bot</h1>
 
 <div align="center">
-A program that stores rolling Students Data into the Local Storage </br></br>
+A program that allows you to chat with a bot (me) </br></br>
 </div>
 
-### 📊 Project idea: Full Stack Development Begginer Demo
+### 📲 Project idea: Messenger APp
 
 ## 🌟 Features/Concepts Learned
 
-- 💻 2 Front-end Pages
-- 📊 Backend using Dev Tools (Inspect Element) and the Local Storage Method
-- 💻 Implementation of Students and displaying them in the UI
-- 🗄 Inserting `Keys/Values` into the Local Storage
-- 💻 Converting strings and arrays using the `.JSON` method.
-- ➕ Appending elements
-- 🔀 Storing Arrays/Objects and returning them into a String.
+- 💻 HTML display as screen/mobile
+- 📊 learned how to refer using jQuery.
+- 💻 Implementation of chats in the UI.
+- 🖱 Learned css concepts. (Hide/show chat, message pop up)
+- ⏰ Add current time to chat.
+- ➕ Learned appending elements
+- 💬 learned how to let bot display a message.
+- 💬 Learned how to let the user input display as a message. 
 
 
 ## 📂 Technologies Used
@@ -32,39 +33,25 @@ A program that stores rolling Students Data into the Local Storage </br></br>
 
 - Javascript
 
-## ✅ Task
+## 🗣 About
 
-Grab the `student-list` file and insert each student into the Local Storage by adding their name, age, and class year.
+Grab the `Questions to ask` file and chat with me.
 
-### 🗄 How to check the Local Storage
-
-Open Dev Tools by...
-
-- Right click and click on `Inspect Element`
-- On the Nav Bar find your way into the `>>`.
-- Click on `Application`
-- Scroll down and find `Storage` and click it to view more.
-You will find your `local server address` from which you're displaying the project from.
-- Click the server and you should see `key` which shows the name of the storage that you're inserting data into.
-- Next to the key you'll see `value` which is the string of data with their properties `(name, age, roll)`
 
 ### ⚒️ Set Up
 
 ```
 # Open code editor (VS Code)
-dowload git project
+dowload git project and open it.
 
-# go to file location by opening your terminal
-cd Local Storage
-
-# run the code
-code . (if not working: ensure that you have shell-command installed)
+# run the code with live server
+make sure you have live server installed as a extension on VS code.
 
 ```
 
 ## 📌 Authors
 
-🧑🏽‍💻 **Giovanny Hernandez** - Created the Front End and code along with Max.
+🧑🏽‍💻 **Giovanny Hernandez** - Coded the program along with Palace.
 
-🧑🏽‍💻 **Max Programming** - Code along and Explanation into Local Storage
+🧑🏽‍💻 **Code Palace** - Explanation into the program.
 
